@@ -4,12 +4,14 @@
     grid-template-rows: 1fr 1fr 1fr 80px;
     grid-gap: 1em;
     padding: 1em;
+    background-color: rgb(204,229,255);
 }
 
 .bioBox {
     border: 1px maroon solid;
     padding: 1em;
     box-shadow: 3px 3px #888888;
+    background-color: rgb(204,229,255);
 }
 
 #myPhoto {
@@ -22,24 +24,29 @@
     text-align: center;
     grid-column: 2 / 3;
     grid-row: 1 / 3;
+    background-color: rgb(204,229,255);
 }
 
 #bioSkills { 
     grid-column: 1 / 2;
     grid-row: 2 / 4;
+    background-color: rgb(204,229,255);
 }
 
 #bioVideo {
     grid-column: 2 / 3;
     grid-row: 3 / 4;
+    background-color: rgb(204,229,255);
 }
 
 .description{
     display: inline-block;
+    background-color: rgb(204,229,255);
 }
 
 iframe {
     width: 100%;
+    background-color: rgb(204,229,255);
 }
 
 #myFooter {
@@ -48,18 +55,21 @@ iframe {
     background-color: rgb(204,229,255);
     text-align: center;
     padding: 1em;
+    background-color: rgb(204,229,255);
 }
 
 h1 {
     text-align: center;
     font-size: 2em;
     color: rgb(89,12,12);
+    background-color: rgb(204,229,255);
 }
 
 h2 {
     text-align: center;
     font-size: 2em;
     color: rgb(89, 12, 12);
+    background-color: rgb(204,229,255);
 }
 
 li {
@@ -81,6 +91,7 @@ p {
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 1em;
     padding: 1em;
+    background-color: rgb(204,229,255);
 }
 
 #projectsFooter {
@@ -97,19 +108,23 @@ p {
     box-shadow: 3px 3px #888888;
     display: grid;
     grid-template-rows: auto auto 150px;
+    background-color: rgb(204,229,255);
 }
 
 .imgContainer {
     text-align: center;
+    background-color: rgb(204,229,255);
 }
 
 .projectsImg {
     max-width: 100%;
     max-height: 100%;
+    background-color: rgb(204,229,255);
 }
 
 .myLinks {
     text-shadow: 0 0 0.10em #E5CCFF;
+    background-color: rgb(204,229,255);
 }
 
 a:hover {
