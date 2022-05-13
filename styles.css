@@ -7,7 +7,7 @@
 }
 
 .bioBox {
-    border: 1px blue solid;
+    border: 1px maroon solid;
     padding: 1em;
     box-shadow: 3px 3px #888888;
 }
@@ -45,7 +45,7 @@ iframe {
 #myFooter {
     grid-column: 1 / 3;
     grid-row: 4 / 5;
-    background-color: rgb(248,249,250);
+    background-color: rgb(204,229,255);
     text-align: center;
     padding: 1em;
 }
@@ -53,13 +53,13 @@ iframe {
 h1 {
     text-align: center;
     font-size: 2em;
-    color: rgb(114,187,83);
+    color: rgb(89,12,12);
 }
 
 h2 {
     text-align: center;
     font-size: 2em;
-    color: rgb(255 102 36);
+    color: rgb(89, 12, 12);
 }
 
 li {
@@ -86,13 +86,13 @@ p {
 #projectsFooter {
     grid-row: 2 / 3;
     grid-column: 1 /4;
-    background-color: rgb(248,249,250);
+    background-color: rgb(204,229,255);
     text-align: center;
     padding: 1em;
 }
 
 .bioBoxProject {
-    border: 1px blue solid;
+    border: 1px maroon solid;
     padding: 1em;
     box-shadow: 3px 3px #888888;
     display: grid;
@@ -109,9 +109,9 @@ p {
 }
 
 .myLinks {
-    text-shadow: 0 0 0.10em #1da9cc;
+    text-shadow: 0 0 0.10em #E5CCFF;
 }
 
 a:hover {
-    background-color: rgb(114,187,83);
+    background-color: rgb(204,229,255);
 }
