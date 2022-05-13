@@ -1,7 +1,3 @@
-*{background-url("stars.png") no-repeat center;
- <img src="Web Portfolio/stars.png">
-}
-
 .container {
     font: 15px monospace;
     display: grid;
