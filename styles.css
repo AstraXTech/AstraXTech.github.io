@@ -1,5 +1,4 @@
 .container {
-    font: 15px monospace;
     display: grid;
     grid-template-columns: repeat(2, minmax(150px, 1fr));
     grid-template-rows: 1fr 1fr 1fr 80px;
@@ -63,7 +62,6 @@ iframe {
 }
 
 h1 {
-    font: 30px monospace;
     text-align: center;
     font-size: 2em;
     color: rgb(89,12,12);
