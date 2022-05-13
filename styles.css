@@ -8,10 +8,8 @@
 }
 
 .bioBox {
-    border-width: medium;
-    border-style: double;
+    border-style: double, 3px;
     border-color: maroon;
-    border-radius: 10%
     padding: 1em;
     box-shadow: 3px 3px #888888;
     background-color: rgb(204,229,255);
@@ -105,10 +103,8 @@ p {
 }
 
 .bioBoxProject {
-    border-width: medium;
-    border-style: double;
-    border-color: maroon, 4px;
-    border-radius: 10%;
+    border-style: double, 3px;
+    border-color: maroon;
     padding: 1em;
     box-shadow: 3px 3px #888888;
     display: grid;
