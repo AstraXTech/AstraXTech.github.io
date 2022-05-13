@@ -1,4 +1,8 @@
+*{background-url("stars.png") no-repeat center;
+
+
 .container {
+    font: 15px monospace;
     display: grid;
     grid-template-columns: repeat(2, minmax(150px, 1fr));
     grid-template-rows: 1fr 1fr 1fr 80px;
@@ -8,8 +12,10 @@
 }
 
 .bioBox {
-    border-style: double, 3px;
+    border-width: medium;
+    border-style: double;
     border-color: maroon;
+    border-radius: 10%
     padding: 1em;
     box-shadow: 3px 3px #888888;
     background-color: rgb(204,229,255);
@@ -60,6 +66,7 @@ iframe {
 }
 
 h1 {
+    font: 30px monospace;
     text-align: center;
     font-size: 2em;
     color: rgb(89,12,12);
@@ -103,8 +110,10 @@ p {
 }
 
 .bioBoxProject {
-    border-style: double, 3px;
-    border-color: maroon;
+    border-width: medium;
+    border-style: double;
+    border-color: maroon, 4px;
+    border-radius: 10%;
     padding: 1em;
     box-shadow: 3px 3px #888888;
     display: grid;
