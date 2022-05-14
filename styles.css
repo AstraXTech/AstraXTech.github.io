@@ -4,6 +4,7 @@
     grid-template-rows: 1fr 1fr 1fr 80px;
     grid-gap: 1em;
     padding: 1em;
+    rgb (235, 245, 251);
     
 }
 
@@ -139,5 +140,5 @@ p { font-family: monospace;
 }
 
 a:hover {
-    background-color: rgb(232, 218, 239;
+    background-color: rgb(232, 218, 239);
 }
