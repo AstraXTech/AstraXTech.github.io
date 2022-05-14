@@ -1,10 +1,11 @@
+html {background-color:  rgb(234, 242, 248); }
 .container {
     display: grid;
     grid-template-columns: repeat(2, minmax(150px, 1fr));
     grid-template-rows: 1fr 1fr 1fr 80px;
     grid-gap: 1em;
     padding: 1em;
-    background-color: rgb(235, 245, 251);
+  
     
 }
 
@@ -135,9 +136,6 @@ p { font-family: monospace;
 }
 
 .myLinks {
-    border-radius: 25px;
-    border: 4px #800000;
-    border-style: double;
     text-shadow: 0 0 0.10em #E5CCFF;
     background-color: rgb(204,229,255);
 }
