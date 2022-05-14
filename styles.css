@@ -4,7 +4,7 @@
     grid-template-rows: 1fr 1fr 1fr 80px;
     grid-gap: 1em;
     padding: 1em;
-    background-color: rgb (235, 245, 251);
+    background-color: rgb(235, 245, 251);
     
 }
 
@@ -99,7 +99,7 @@ p { font-family: monospace;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 1em;
     padding: 1em;
-    background-color: rgb (235, 245, 251);
+    background-color: rgb(235, 245, 251);
 }
 
 #projectsFooter {
