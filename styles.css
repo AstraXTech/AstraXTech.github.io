@@ -91,6 +91,9 @@ p { font-family: monospace;
 }
 
 .projectsContainer {
+    border-radius: 25px;
+    border: 4px #800000;
+    border-style: double;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 1em;
@@ -136,5 +139,5 @@ p { font-family: monospace;
 }
 
 a:hover {
-    background-color: rgb(204,229,255);
+    background-color: rgb(232, 218, 239;
 }
