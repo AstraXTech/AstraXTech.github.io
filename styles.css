@@ -135,6 +135,9 @@ p { font-family: monospace;
 }
 
 .myLinks {
+    border-radius: 25px;
+    border: 4px #800000;
+    border-style: double;
     text-shadow: 0 0 0.10em #E5CCFF;
     background-color: rgb(204,229,255);
 }
