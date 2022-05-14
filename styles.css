@@ -33,7 +33,7 @@
 #bioSkills { 
     grid-column: 1 / 2;
     grid-row: 2 / 4;
-    background-color: rgb(235, 222, 240);
+    background-color: rgb(153, 153, 255);
 }
 
 #bioVideo {
